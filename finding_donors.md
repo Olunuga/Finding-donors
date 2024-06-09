@@ -1,5 +1,3 @@
-# finding-donors
-
 # Introduction to Machine Learning with PyTorch
 ## Project: Finding Donors for *CharityML*
 
@@ -1593,4 +1591,3 @@ From the result above, the accuracy and the F-scored is not as good as when the 
 
 > **Note**: Once you have completed all of the code implementations and successfully answered each question above, you may finalize your work by exporting the iPython Notebook as an HTML document. You can do this by using the menu above and navigating to  
 **File -> Download as -> HTML (.html)**. Include the finished document along with this notebook as your submission.
-
